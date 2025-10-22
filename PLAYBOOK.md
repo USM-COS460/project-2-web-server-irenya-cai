@@ -11,7 +11,7 @@ This project does not required complie, but you need to install Python to run it
 
 ## How to run
 
-Run this project by open the terminal or command prompt. Then, naviagte to the directory containing the server file (Project2_Server.py). Also, make sure that there is a www folder containing the file you want to serve. After the naviagtion, run the server by using "python Project2_Server.py --port 1010 --root ./www" which --port specifies the port number (1010 is defualt) and --root is the document root folder (./www is default). 
+Run this project by open the terminal or command prompt. Then, naviagte to the directory containing the server file (project2_server.py). Also, make sure that there is a www folder containing the file you want to serve. After the naviagtion, run the server by using "python project2_server.py --port 1010 --root ./www" which --port specifies the port number (1010 is defualt) and --root is the document root folder (./www is default). 
 
 Open another terminal and using curl to test the server, "curl -v http://localhost:1010/index.html," Which "-v" shows the headers and the body. 
 
