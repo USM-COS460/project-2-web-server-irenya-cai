@@ -1,9 +1,9 @@
 ## COS 460/540 - Computer Networks
 # Project 2: HTTP Server
 
-# <<YOUR NAME>>
+# <<Irenya Cai>>
 
-This project is written in <<LAUNGUAGE USED>> on <<OPERATING SYSTEM>>.
+This project is written in <<Python>> on <<Window>>.
 
 ## How to compile
 
